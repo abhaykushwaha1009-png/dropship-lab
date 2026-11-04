@@ -1,0 +1,194 @@
+[
+  {
+    "id": "cool-paws",
+    "objective": "live-shop Cool Paws",
+    "keyResult": "3 SKUs live in site/cool-paws/ — 44.50 kit floor — traffic test spend 0",
+    "risk": "high",
+    "status": "pending",
+    "blocked": "",
+    "steps": [
+      [
+        "GS1",
+        "LIVE",
+        "PUBLISHED",
+        "2026-11-05",
+        "deploy"
+      ],
+      [
+        "GS2",
+        "SKUs live",
+        "DONE",
+        "2026-11-05",
+        "site directory + ads.md"
+      ]
+    ]
+  },
+  {
+    "id": "caffeine-lab",
+    "objective": "live-shop Caffeine Lab",
+    "keyResult": "3 SKUs live in site/caffeine-lab/ — 64.50 kit floor — traffic test spend 0",
+    "risk": "high",
+    "status": "pending",
+    "blocked": "",
+    "steps": [
+      [
+        "GS1",
+        "LIVE",
+        "PUBLISHED",
+        "2026-11-05",
+        "deploy"
+      ],
+      [
+        "GS2",
+        "SKUs live",
+        "DONE",
+        "2026-11-05",
+        "site directory + ads.md"
+      ]
+    ]
+  },
+  {
+    "id": "desk-hush",
+    "objective": "live-shop Desk Hush",
+    "keyResult": "3 SKUs live in site/desk-hush/ — 73.50 kit floor — traffic test spend 0",
+    "risk": "high",
+    "status": "pending",
+    "blocked": "",
+    "steps": [
+      [
+        "GS1",
+        "LIVE",
+        "PUBLISHED",
+        "2026-11-05",
+        "deploy"
+      ],
+      [
+        "GS2",
+        "SKUs live",
+        "DONE",
+        "2026-11-05",
+        "site directory + ads.md"
+      ]
+    ]
+  },
+  {
+    "id": "grow-crate",
+    "objective": "live-shop Grow Crate",
+    "keyResult": "3 SKUs live in site/grow-crate/ — 75.50 kit floor — traffic test spend 0",
+    "risk": "high",
+    "status": "pending",
+    "blocked": "",
+    "steps": [
+      [
+        "GS1",
+        "LIVE",
+        "PUBLISHED",
+        "2026-11-05",
+        "deploy"
+      ],
+      [
+        "GS2",
+        "SKUs live",
+        "DONE",
+        "2026-11-05",
+        "site directory + ads.md"
+      ]
+    ]
+  },
+  {
+    "id": "ride-kit",
+    "objective": "live-shop Ride Kit",
+    "keyResult": "3 SKUs live in site/ride-kit/ — 65.50 kit floor — traffic test spend 0",
+    "risk": "high",
+    "status": "pending",
+    "blocked": "",
+    "steps": [
+      [
+        "GS1",
+        "LIVE",
+        "PUBLISHED",
+        "2026-11-05",
+        "deploy"
+      ],
+      [
+        "GS2",
+        "SKUs live",
+        "DONE",
+        "2026-11-05",
+        "site directory + ads.md"
+      ]
+    ]
+  },
+  {
+    "id": "glow-shelf",
+    "objective": "live-shop Glow Shelf",
+    "keyResult": "3 SKUs live in site/glow-shelf/ — 78.50 kit floor — traffic test spend 0",
+    "risk": "high",
+    "status": "pending",
+    "blocked": "",
+    "steps": [
+      [
+        "GS1",
+        "LIVE",
+        "PUBLISHED",
+        "2026-11-05",
+        "deploy"
+      ],
+      [
+        "GS2",
+        "SKUs live",
+        "DONE",
+        "2026-11-05",
+        "site directory + ads.md"
+      ]
+    ]
+  },
+  {
+    "id": "tiny-feet",
+    "objective": "live-shop Tiny Feet",
+    "keyResult": "3 SKUs live in site/tiny-feet/ — 65.50 kit floor — traffic test spend 0",
+    "risk": "high",
+    "status": "pending",
+    "blocked": "",
+    "steps": [
+      [
+        "GS1",
+        "LIVE",
+        "PUBLISHED",
+        "2026-11-05",
+        "deploy"
+      ],
+      [
+        "GS2",
+        "SKUs live",
+        "DONE",
+        "2026-11-05",
+        "site directory + ads.md"
+      ]
+    ]
+  },
+  {
+    "id": "strong-box",
+    "objective": "live-shop Strong Box",
+    "keyResult": "3 SKUs live in site/strong-box/ — 84.50 kit floor — traffic test spend 0",
+    "risk": "high",
+    "status": "pending",
+    "blocked": "",
+    "steps": [
+      [
+        "GS1",
+        "LIVE",
+        "PUBLISHED",
+        "2026-11-05",
+        "deploy"
+      ],
+      [
+        "GS2",
+        "SKUs live",
+        "DONE",
+        "2026-11-05",
+        "site directory + ads.md"
+      ]
+    ]
+  }
+]

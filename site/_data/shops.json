@@ -1,0 +1,141 @@
+{
+  "custom": ["hearth", "kitchen", "paws"],
+  "shops": [
+    {
+      "slug": "cool-paws",
+      "name": "Cool Paws",
+      "audience": "apartment dog owners in hot cities whose floors bake by noon",
+      "kicker": "Heat kit for floor-baked summers",
+      "headline": "A cool mat your dog actually lies on — and a bandana that does not sag soggy",
+      "lede": "Gel core under woven nylon, stays 6–8°C below room temperature for two hours. Machine-washable cover, no electricity, folds flat. Sold with a reversible swim bandana and paw balm for hot asphalt.",
+      "accent": "#2E7F7B",
+      "note": "Cold water + 10 min soak = mat depth back. That is the whole routine.",
+      "priceFloor": 44.5,
+      "products": [
+        { "id": "cp-mat", "name": "Cool mat (M/L)", "price": 26.9, "kind": "cooling mat", "blurb": "Gel core, woven cover. M 60×45cm, L 90×60cm. The bandana is for the walk back.", "art": ["rect x=14 y=34 w=82 h=64 rx=10", "path d=M14 55h82", "path d=M20 47h70"] },
+        { "id": "cp-bandana", "name": "Swim bandana", "price": 9.9, "kind": "cooling bandana", "blurb": "Reversible cotton, snap closure. Soaked once, cool for the walk back.", "art": ["path d=M28 24v14a27 27 0 0 0 54 0V24c-9-11-16-15-27-15s-18 4-27 15Z", "path d=M40 44h30"] },
+        { "id": "cp-balm", "name": "Paw balm", "price": 8.9, "kind": "paw balm", "blurb": "Beeswax barrier for 45°C asphalt. 30ml twist stick.", "art": ["rect x=44 y=20 w=22 h=54 rx=6", "path d=M44 34h22", "path d=M55 76v14"] }
+      ],
+      "angles": ["apartment balcony + midday sun", "dog lying on bath mat", "bandana soak demo, 15s", "balm close-up on cracked pad"]
+    },
+    {
+      "slug": "caffeine-lab",
+      "name": "Caffeine Lab",
+      "audience": "people who bought a pour-over set and now want a ritual that tastes like one",
+      "kicker": "Pour-over, done properly",
+      "headline": "A kettle that stops pouring when it should, and a brewer that keeps the ritual short",
+      "lede": "Gooseneck kettle with stop-at-temperature, 600ml glass brewer, 100 filters. Two pour rounds, 2:45 total — the two minutes your office coffee machine spends burning itself. Starter kit ships as one box, one order.",
+      "accent": "#7A4B2A",
+      "note": "Kit includes 100 filters and the 2:45 recipe card on the box.",
+      "priceFloor": 64.5,
+      "products": [
+        { "id": "cl-kettle", "name": "Gooseneck kettle", "price": 36.9, "kind": "pour-over kettle", "blurb": "Takes 2:40. Stop-at-temperature, hold. One pouring arm, no splash.", "art": ["path d=M20 50h42a14 14 0 0 1 14 14v8a14 14 0 0 1-14 14H34a14 14 0 0 1-14-14V50Z", "path d=M34 44c0-6 7-9 14-9s14 3 14 9", "path d=M76 56h12a8 8 0 0 1 0 16H76"] },
+        { "id": "cl-brewer", "name": "Glass brewer", "price": 17.9, "kind": "coffee brewer", "blurb": "600 ml, pour-over. Fits a 300 ml mug and a 500 ml carafe.", "art": ["path d=M28 30h46l-6 56a10 10 0 0 1-10 9H44a10 10 0 0 1-10-9l-6-56Z", "path d=M24 30h62", "path d=M48 78h16"] },
+        { "id": "cl-filters", "name": "100 filters", "price": 9.9, "kind": "paper filters", "blurb": "Unglazed, oxygen-bleached. One box = 100 brews of clean cup.", "art": ["path d=M34 24h32l8 18-24 56-24-56 8-18Z", "path d=M38 42h26"] }
+      ],
+      "angles": ["kettle pouring 2:45 timer on screen", "brewer on counter, steam", "recipe card in hand", "four customers' mugs"]
+    },
+    {
+      "slug": "desk-hush",
+      "name": "Desk Hush",
+      "audience": "people who take meeting calls from a shared flat",
+      "kicker": "Quiet-zone kit for the desk",
+      "headline": "A stand that finally lets the laptop face you, and a fan that does not enter the call",
+      "lede": "Solid-birch riser at 9.5cm, a phone bridge for one hand, and a pyrex mug warmer that plugs into the laptop. All three in one box: the meeting voice goes up, the fan noise goes off.",
+      "accent": "#5C5442",
+      "note": "Riser and phone bridge ship in one box. No tools.",
+      "priceFloor": 73.5,
+      "products": [
+        { "id": "dh-riser", "name": "Birch laptop riser", "price": 34.9, "kind": "monitor riser", "blurb": "Solid birch, 9.5 cm. The laptop camera sits at eye level — your shoulders relax on their own.", "art": ["path d=M26 40h44a6 6 0 0 1 6 6v36H20V46a6 6 0 0 1 6-6Z", "path d=M34 56h30", "path d=M42 66h14"] },
+        { "id": "dh-bridge", "name": "Phone bridge", "price": 17.9, "kind": "phone stand", "blurb": "Clamps on the riser. The screen sits beside yours, one hand then free for the call.", "art": ["path d=M20 44h34a6 6 0 0 1 6 6v6", "rect x=30 y=56 w=44 h=26 rx=6", "path d=M40 69h24"] },
+        { "id": "dh-warmer", "name": "Mug warmer", "price": 24.9, "kind": "mug warmer", "blurb": "USB-C, 40°C hold. Plugs into the laptop, keeps the cup the whole call.", "art": ["rect x=30 y=54 w=42 h=32 rx=6", "path d=M36 42h30l4 12H32l4-12Z", "path d=M44 24c2 4-2 6 0 9M53 24c2 4-2 6 0 9M62 24c2 4-2 6 0 9"] }
+      ],
+      "angles": ["before/after shoulder angle", "bridge + phone on riser", "warmer steaming mid-call", "teardown of 3 kits"]
+    },
+    {
+      "slug": "grow-crate",
+      "name": "Grow Crate",
+      "audience": "balcony renters who want herbs before they want a garden",
+      "kicker": "Herbs from a 60cm balcony",
+      "headline": "A crate that keeps your basil alive in August — and scissors made to not shred it",
+      "lede": "The self-watering core pulls 2 cm from the tray floor for the week, so the summer sun does not boil the roots. Sits on any rail, holds six pots, and the shears cut while the stainless pruner does the stem work.",
+      "accent": "#4F6B3C",
+      "note": "The crate needs no drilling, no soil fill. Water 1× per week.",
+      "priceFloor": 75.5,
+      "products": [
+        { "id": "gc-crate", "name": "Rail crate (6 pots)", "price": 39.9, "kind": "rail planter", "blurb": "Water reservoir tractor across six cells. Fits rails from 4 to 9 cm. Holds 6 pots.", "art": ["path d=M18 34h74a8 8 0 0 1 8 8v14H26a8 8 0 0 1-8-8V42a8 8 0 0 0 0-8Z", "path d=M26 56h74v26H26Z", "path d=M34 64h58"] },
+        { "id": "gc-seeds", "name": "Herb seed mix", "price": 7.9, "kind": "herb seeds", "blurb": "12 varieties. Basil, thyme, mint, chives. Sourced in DE, freight-free everywhere in Europe.", "art": ["rect x=28 y=24 w=20 h=30 rx=4", "rect x=34 y=58 w=20 h=30 rx=4", "rect x=52 y=30 w=20 h=30 rx=4"] },
+        { "id": "gc-apron", "name": "Garden apron", "price": 19.9, "kind": "garden apron", "blurb": "6 pockets for the 6 pots, no more mess on the rail. Cross-back straps.", "art": ["path d=M26 30l12-8 10 14 10-14 12 8-6 18v38H32v-38l-6-18Z", "path d=M28 52h44"] }
+      ],
+      "angles": ["balcony rail before/after", "self-water tray cutaway", "basil on brand-new crate", "a week without watering"]
+    },
+    {
+      "slug": "ride-kit",
+      "name": "Ride Kit",
+      "audience": "people whose trunk looks better clean and whose cables never stay untangled",
+      "kicker": "Trunk + cable order for the car",
+      "headline": "A boot organiser with a lid you actually use — and the 3-in-1 cable that stops the knot",
+      "lede": "Three-sided boot organiser, 60L, with a zip lid that keeps the shopping off the beach toys. The USB hub sits on the tunnel, the charge cable in the glove box. One system, one click per trip.",
+      "accent": "#2E5A8A",
+      "note": "Organiser has a zip lid — the beach toys no longer live on the groceries.",
+      "priceFloor": 65.5,
+      "products": [
+        { "id": "rk-organizer", "name": "Boot organiser 60L", "price": 31.9, "kind": "car organiser", "blurb": "Three-sided, 60 L, zip lid. Folded flat when unused.", "art": ["path d=M20 44h70a10 10 0 0 1 10 10v26H30a10 10 0 0 1-10-10V44Z", "path d=M20 44V32a6 6 0 0 1 6-6h58a6 6 0 0 1 6 6v12", "path d=M34 56h42"] },
+        { "id": "rk-hub", "name": "USB hub 4-port", "price": 17.9, "kind": "USB hub", "blurb": "Plug into the 12 V socket. Charge four devices, no laptop on the passenger seat.", "art": ["rect x=28 y=44 w=54 h=34 rx=6", "path d=M40 44v-20M52 44v-12M64 44v-20M76 44v-8"] },
+        { "id": "rk-cable", "name": "3-in-1 cable", "price": 15.9, "kind": "charging cable", "blurb": "USB-C, Lightning and micro-USB in one braided lead. 2 m, glove box.", "art": ["path d=M24 60c0-14 14-20 31-20s31 6 31 20-14 20-31 20S24 74 24 60Z", "path d=M30 60h50"] }
+      ],
+      "angles": ["trunk before/after", "lid zip in use", "hub on tunnel", "cable knot before/after"]
+    },
+    {
+      "slug": "glow-shelf",
+      "name": "Glow Shelf",
+      "audience": "renters who want light that changes a room, not a lamp",
+      "kicker": "Warm light for 45cm",
+      "headline": "A shelf lamp that reads as furniture — warm, high CRI, no glare on the screen",
+      "lede": "Solid-oak shelf lamp, 2700K/3000K, RA95. The linen shade sits above eye level on the shelf so the glare stays off the laptop, and the dimmer is a real knob on the base.",
+      "accent": "#A9652A",
+      "note": "Bulb is a 2700K/3000K LED with RA95 — the shelf light for a room that works.",
+      "priceFloor": 78.5,
+      "products": [
+        { "id": "gl-lamp", "name": "Shelf lamp", "price": 44.9, "kind": "shelf lamp", "blurb": "2700K / 3000K, RA95. Wandelt shelf light into room light. Dimmer on the base.", "art": ["rect x=42 y=16 w=26 h=58 rx=8", "path d=M52 74v22M66 74v22", "path d=M34 96h50", "path d=M55 30h0"] },
+        { "id": "gl-shade", "name": "Linen shade", "price": 17.9, "kind": "lamp shade", "blurb": "Linen over a diffuser, sits above eye height so the screen stays readable.", "art": ["path d=M34 36 44 16h22l10 20Z", "path d=M40 36h30", "path d=M38 36 33 52h44l-5-16"] },
+        { "id": "gl-bulb", "name": "2700K/3000K LED", "price": 19.9, "kind": "LED lamp", "blurb": "RA95, 800 lm, dimmable. The one bulb the lamp was designed around.", "art": ["circle cx=55 cy=54 r=22", "path d=M55 76v18", "path d=M48 84h16", "path d=M46 54c4-10 14-10 18 0"] }
+      ],
+      "angles": ["flat before/after with lamp", "knob dim to lowest", "laptop screen vs lamp glare", "shade material close-up"]
+    },
+    {
+      "slug": "tiny-feet",
+      "name": "Tiny Feet",
+      "audience": "parents who need the toddler to stay put on a café terrace and a train seat",
+      "kicker": "For the hour the toddler has to sit still",
+      "headline": "A travel seat they cannot slide out of in 3 seconds, and a bib that catches the wine glass",
+      "lede": "Mounts onto café, train and restaurant chairs with two straps and packs to five kilos — easier than a high chair hunt. Zipped pockets hold the travel cup and the second bib.",
+      "accent": "#A95C55",
+      "note": "Seat mounts onto any restaurant, train or café chair. Zip-away legs.",
+      "priceFloor": 65.5,
+      "products": [
+        { "id": "tf-seat", "name": "Travel booster seat", "price": 33.9, "kind": "travel booster", "blurb": "Two straps, five seconds. Folds to 32×30×8cm. Machine washable.", "art": ["path d=M22 42h66a8 8 0 0 1 8 8v14a8 8 0 0 1-8 8H22a8 8 0 0 1-8-8V50a8 8 0 0 1 8-8Z", "path d=M28 42V28a6 6 0 0 1 6-6h42a6 6 0 0 1 6 6v14", "path d=M30 54h50"] },
+        { "id": "tf-bib", "name": "Catch bib", "price": 11.9, "kind": "catch bib", "blurb": "Silicone tray bib, wipeable. Catches the wine glass, catches everything.", "art": ["path d=M34 22c0-10 28-10 28 0v26c0 8-28 8-28 0V22Z", "path d=M40 48 47 28h16l7 20", "path d=M44 40h22"] },
+        { "id": "tf-cups", "name": "Cup + snack box", "price": 19.9, "kind": "travel cup", "blurb": "Insulated, anti-leak, 240 ml. The cup the second bib lives in the pocket for.", "art": ["rect x=40 y=34 w=30 h=48 rx=8", "path d=M46 34v-10h18v10", "path d=M50 52h10"] }
+      ],
+      "angles": ["chair-mount demo, 15s", "pack-away", "bib catching the glass", "terrace, parent's free hands"]
+    },
+    {
+      "slug": "strong-box",
+      "name": "Strong Box",
+      "audience": "people doing home gym on 2 m² with no bar and a rental floor",
+      "kicker": "Heavy kit, thin floor",
+      "headline": "Three things a living-room workout needs: cushion, tube, handle",
+      "lede": "70 mm floor tiles for the deadlift drop, 11-piece tube set from 5 to 20 kg, one handle that keeps the wrist straight. Packed as a box, no rack, no barbell.",
+      "accent": "#7A3B4E",
+      "note": "The mat set includes the 70mm drop tile — the wall-to-wall cover stays quiet.",
+      "priceFloor": 84.5,
+      "products": [
+        { "id": "sb-mat", "name": "Mat set 80×60cm", "price": 44.9, "kind": "drop mat", "blurb": "23mm, 70mm edge, anti-slip. Order 3 for a full deadlift zone.", "art": ["path d=M20 40h70a10 10 0 0 1 10 10v30H30a10 10 0 0 1-10-10V40Z", "path d=M26 56h68", "path d=M34 70h52"] },
+        { "id": "sb-tubes", "name": "Tube set 11×", "price": 26.9, "kind": "resistance tubes", "blurb": "5 to 20 kg in 11 steps. Hooks and handles included.", "art": ["path d=M28 46c18-14 36-14 54 0", "path d=M28 52c18-14 36-14 54 0", "path d=M28 58c18-14 36-14 54 0", "path d=M30 64c18-14 34-14 50 0"] },
+        { "id": "sb-handle", "name": "Handle", "price": 14.9, "kind": "cable handle", "blurb": "Keeps the wrist straight at the tube end. One or two, you decide.", "art": ["path d=M44 20v46a8 8 0 0 0 8 8h6a8 8 0 0 0 8-8V20", "path d=M44 30h16", "path d=M44 46h16"] }
+      ],
+      "angles": ["tile drop with 3 tiles", "tube rack made from wooden rack", "handle in grip", "the 2 m² corner before/after"]
+    }
+  ]
+}
