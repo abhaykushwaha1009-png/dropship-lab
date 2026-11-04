@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://dropship-lab-974ef.web.app/sitemap.xml
