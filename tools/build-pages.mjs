@@ -10,7 +10,7 @@ import path from 'node:path';
 const ROOT = 'C:/antigravity/AI Money Ops/drop shopping';
 const SITE = path.join(ROOT, 'site');
 const DOCS = path.join(ROOT, 'docs');
-const BASE = 'https://abhaykushwaha.github.io/dropship-lab/';
+const BASE = 'https://abhaykushwaha1009-png.github.io/dropship-lab/';
 const CSP = "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https://dropship-lab-974ef.web.app; connect-src 'self'; base-uri 'self'; form-action 'self'; object-src 'none'";
 const KEEP = ['README.md', 'SUPPLIERS.md', 'firebase.json', '.firebaserc', 'fb_projects.txt'];
 
