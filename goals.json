@@ -190,5 +190,53 @@
         "site directory + ads.md"
       ]
     ]
+  },
+  {
+    "id": "computer-parts",
+    "objective": "live-shop Tek Desk",
+    "keyResult": "4 SKUs live in site/computer-parts/ — 21.90 kit floor — traffic test spend 0",
+    "risk": "high",
+    "status": "pending",
+    "blocked": "",
+    "steps": [
+      [
+        "GS1",
+        "LIVE",
+        "PUBLISHED",
+        "2026-11-05",
+        "deploy"
+      ],
+      [
+        "GS2",
+        "SKUs live",
+        "DONE",
+        "2026-11-05",
+        "site directory + ads.md"
+      ]
+    ]
+  },
+  {
+    "id": "microphone",
+    "objective": "live-shop Pod Shed",
+    "keyResult": "4 SKUs live in site/microphone/ — 17.90 kit floor — traffic test spend 0",
+    "risk": "high",
+    "status": "pending",
+    "blocked": "",
+    "steps": [
+      [
+        "GS1",
+        "LIVE",
+        "PUBLISHED",
+        "2026-11-05",
+        "deploy"
+      ],
+      [
+        "GS2",
+        "SKUs live",
+        "DONE",
+        "2026-11-05",
+        "site directory + ads.md"
+      ]
+    ]
   }
 ]

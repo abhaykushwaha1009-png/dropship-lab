@@ -15,7 +15,18 @@ const APIS = {
     'cl-brewer': 'https://www.aliexpress.com/w/wholesale-pour-over-coffee-brewer.html?SearchText=glass+coffee+brewer&shipFromCountry=DE',
     'cl-filters': 'https://www.aliexpress.com/w/wholesale-pour-over-filters.html?SearchText=pour-over+filters&shipFromCountry=DE'
   },
-  'desk-hush': {
+  'computer-parts': {
+    'cp-usbhub': 'https://www.aliexpress.com/w/wholesale-usb-c-hub-7in1.html?SearchText=usb-c+hub+hdmi&shipFromCountry=DE',
+    'cp-laptopstand': 'https://www.aliexpress.com/w/wholesale-laptop-stand-aluminium.html?SearchText=aluminium+laptop+stand&shipFromCountry=DE',
+    'cp-cable': 'https://www.aliexpress.com/w/wholesale-usb-c-cable-100w.html?SearchText=usb-c+cable+100w+right+angle&shipFromCountry=DE',
+    'cp-mousepad': 'https://www.aliexpress.com/w/wholesale-xl-desk-mat.html?SearchText=desk+mat+90x40&shipFromCountry=DE'
+  },
+  'microphone': {
+    'mic-arm': 'https://www.aliexpress.com/w/wholesale-boom-arm-gas.html?SearchText=gas+spring+boom+arm+mic&shipFromCountry=DE',
+    'mic-mount': 'https://www.aliexpress.com/w/wholesale-shock-mount-foam.html?SearchText=foam+shock+mount+condenser&shipFromCountry=DE',
+    'mic-hood': 'https://www.aliexpress.com/w/wholesale-pop-filter-hood.html?SearchText=pop+filter+hood+foam&shipFromCountry=DE',
+    'mic-condenser': 'https://www.aliexpress.com/w/wholesale-usb-condenser-mic.html?SearchText=usb+condenser+microphone&shipFromCountry=DE'
+  },  'desk-hush': {
     'dh-riser': 'https://www.aliexpress.com/w/wholesale-laptop-riser.html?SearchText=laptop+riser+birch&shipFromCountry=DE',
     'dh-bridge': 'https://www.aliexpress.com/w/wholesale-phone-stand-desk.html?SearchText=phone+stand+clamp&shipFromCountry=DE',
     'dh-warmer': 'https://www.aliexpress.com/w/wholesale-mug-warmer.html?SearchText=mug+warmer+usb&shipFromCountry=DE'
