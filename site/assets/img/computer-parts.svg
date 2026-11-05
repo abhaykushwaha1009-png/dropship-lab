@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Tek Desk — Gear for the desk you stare at">
+<rect width="640" height="480" fill="#3D6B8E"/>
+<circle cx="80" cy="70" r="90" fill="#ffffff" opacity=".07"/>
+<circle cx="580" cy="380" r="120" fill="#ffffff" opacity=".07"/>
+<rect x="30" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="65" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#3D6B8E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x=20 y=34 w=64 h=32 rx=6/><circle cx=30 cy=50 r=4/><circle cx=40 cy=50 r=4/><circle cx=50 cy=50 r=4/><path d=M66 50h8/></svg>
+<rect x="255" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="290" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#3D6B8E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d=M20 66l10-36h44l10 36/><path d=M28 46h48/><path d=M20 66h64/></svg>
+<rect x="480" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="515" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#3D6B8E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d=M24 30h30l14 24/><rect x=14 y=26 w=10 h=8 rx=3/><rect x=62 y=52 w=10 h=8 rx=3/></svg>
+<rect x="NaN" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="NaN" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#3D6B8E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x=12 y=26 w=80 h=48 rx=6/><path d=M20 34h64/><path d=M20 66h64/></svg>
+<text x="320" y="400" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#ffffff">Tek Desk</text>
+<text x="320" y="436" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="600" fill="#ffffff" opacity=".82">Gear for the desk you stare at</text>
+</svg>

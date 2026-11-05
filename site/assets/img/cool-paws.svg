@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Cool Paws — Heat kit for floor-baked summers">
+<rect width="640" height="480" fill="#2E7F7B"/>
+<circle cx="80" cy="70" r="90" fill="#ffffff" opacity=".07"/>
+<circle cx="580" cy="380" r="120" fill="#ffffff" opacity=".07"/>
+<rect x="30" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="65" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#2E7F7B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x=14 y=34 w=82 h=64 rx=10/><path d=M14 55h82/><path d=M20 47h70/></svg>
+<rect x="255" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="290" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#2E7F7B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d=M28 24v14a27 27 0 0 0 54 0V24c-9-11-16-15-27-15s-18 4-27 15Z/><path d=M40 44h30/></svg>
+<rect x="480" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="515" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#2E7F7B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x=44 y=20 w=22 h=54 rx=6/><path d=M44 34h22/><path d=M55 76v14/></svg>
+<text x="320" y="400" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#ffffff">Cool Paws</text>
+<text x="320" y="436" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="600" fill="#ffffff" opacity=".82">Heat kit for floor-baked summers</text>
+</svg>

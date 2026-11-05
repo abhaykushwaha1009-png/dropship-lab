@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Strong Box — Heavy kit, thin floor">
+<rect width="640" height="480" fill="#7A3B4E"/>
+<circle cx="80" cy="70" r="90" fill="#ffffff" opacity=".07"/>
+<circle cx="580" cy="380" r="120" fill="#ffffff" opacity=".07"/>
+<rect x="30" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="65" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#7A3B4E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d=M20 40h70a10 10 0 0 1 10 10v30H30a10 10 0 0 1-10-10V40Z/><path d=M26 56h68/><path d=M34 70h52/></svg>
+<rect x="255" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="290" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#7A3B4E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d=M28 46c18-14 36-14 54 0/><path d=M28 52c18-14 36-14 54 0/><path d=M28 58c18-14 36-14 54 0/><path d=M30 64c18-14 34-14 50 0/></svg>
+<rect x="480" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="515" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#7A3B4E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d=M44 20v46a8 8 0 0 0 8 8h6a8 8 0 0 0 8-8V20/><path d=M44 30h16/><path d=M44 46h16/></svg>
+<text x="320" y="400" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#ffffff">Strong Box</text>
+<text x="320" y="436" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="600" fill="#ffffff" opacity=".82">Heavy kit, thin floor</text>
+</svg>

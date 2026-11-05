@@ -1,6 +1,6 @@
 # Tiny Feet — ad angles (Meta / TikTok)
 
-Audience: parents who need the toddler to stay put on a café terrace and a train seat
+Audience: parents who need the toddler to stay put on a cafÃ© terrace and a train seat
 
 Angles:
 - chair-mount demo, 15s
@@ -10,7 +10,7 @@ Angles:
 
 Hook lines (10):
 1. A travel seat they cannot slide out of in 3 seconds, and a bib that catches the wine glass
-2. "Seat mounts onto any restaurant, train or café chair. Zip-away legs."
+2. "Seat mounts onto any restaurant, train or cafÃ© chair. Zip-away legs."
 3. parents who need the toddler to?
 4. Three things that belong together. $65.50.
 5. Free shipping, 30-day returns — no stock in your hallway.

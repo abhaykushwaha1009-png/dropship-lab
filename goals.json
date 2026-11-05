@@ -238,5 +238,53 @@
         "site directory + ads.md"
       ]
     ]
+  },
+  {
+    "id": "car-clean",
+    "objective": "live-shop Come Clean",
+    "keyResult": "3 SKUs live in site/car-clean/ — 43.70 kit floor — traffic test spend 0",
+    "risk": "high",
+    "status": "pending",
+    "blocked": "",
+    "steps": [
+      [
+        "GS1",
+        "LIVE",
+        "PUBLISHED",
+        "2026-11-05",
+        "deploy"
+      ],
+      [
+        "GS2",
+        "SKUs live",
+        "DONE",
+        "2026-11-05",
+        "site directory + ads.md"
+      ]
+    ]
+  },
+  {
+    "id": "fresh-fold",
+    "objective": "live-shop Fresh Fold",
+    "keyResult": "3 SKUs live in site/fresh-fold/ — 33.70 kit floor — traffic test spend 0",
+    "risk": "high",
+    "status": "pending",
+    "blocked": "",
+    "steps": [
+      [
+        "GS1",
+        "LIVE",
+        "PUBLISHED",
+        "2026-11-05",
+        "deploy"
+      ],
+      [
+        "GS2",
+        "SKUs live",
+        "DONE",
+        "2026-11-05",
+        "site directory + ads.md"
+      ]
+    ]
   }
 ]

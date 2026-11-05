@@ -9,8 +9,8 @@ Angles:
 - shade material close-up
 
 Hook lines (10):
-1. A shelf lamp that reads as furniture
-2. "Bulb is a 2700K/3000K LED with RA95 — the shelf light for a room that works."
+1. A shelf lamp that reads as furniture â€” warm, high CRI, no glare on the screen
+2. "Bulb is a 2700K/3000K LED with RA95 â€” the shelf light for a room that works."
 3. renters who want light that changes?
 4. Three things that belong together. $78.50.
 5. Free shipping, 30-day returns — no stock in your hallway.

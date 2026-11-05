@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Tiny Feet — For the hour the toddler has to sit still">
+<rect width="640" height="480" fill="#A95C55"/>
+<circle cx="80" cy="70" r="90" fill="#ffffff" opacity=".07"/>
+<circle cx="580" cy="380" r="120" fill="#ffffff" opacity=".07"/>
+<rect x="30" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="65" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#A95C55" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d=M22 42h66a8 8 0 0 1 8 8v14a8 8 0 0 1-8 8H22a8 8 0 0 1-8-8V50a8 8 0 0 1 8-8Z/><path d=M28 42V28a6 6 0 0 1 6-6h42a6 6 0 0 1 6 6v14/><path d=M30 54h50/></svg>
+<rect x="255" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="290" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#A95C55" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d=M34 22c0-10 28-10 28 0v26c0 8-28 8-28 0V22Z/><path d=M40 48 47 28h16l7 20/><path d=M44 40h22/></svg>
+<rect x="480" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="515" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#A95C55" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x=40 y=34 w=30 h=48 rx=8/><path d=M46 34v-10h18v10/><path d=M50 52h10/></svg>
+<text x="320" y="400" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#ffffff">Tiny Feet</text>
+<text x="320" y="436" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="600" fill="#ffffff" opacity=".82">For the hour the toddler has to sit still</text>
+</svg>
