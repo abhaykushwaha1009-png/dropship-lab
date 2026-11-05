@@ -9,8 +9,8 @@ Angles:
 - USB plug + phone stand
 
 Hook lines (10):
-1. A boom arm that gets the mic off the desk
-2. "No drivers, no software. The win is mechanical isolation — the boom clamps, the hood damps, the desk stops drumming through the track."
+1. A boom arm that gets the mic off the desk â€” and a foam hood that kills the boom
+2. "No drivers, no software. The win is mechanical isolation â€” the boom clamps, the hood damps, the desk stops drumming through the track."
 3. podcast and YouTube hobbyists recording in?
 4. Three things that belong together. $17.90.
 5. Free shipping, 30-day returns — no stock in your hallway.

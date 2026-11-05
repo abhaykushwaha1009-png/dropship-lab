@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Fresh Fold — Laundry fix-up kit">
+<rect width="640" height="480" fill="#8C6BAE"/>
+<circle cx="80" cy="70" r="90" fill="#ffffff" opacity=".07"/>
+<circle cx="580" cy="380" r="120" fill="#ffffff" opacity=".07"/>
+<rect x="30" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="65" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#8C6BAE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x=44 y=24 w=22 h=50 rx=10/><rect x=47 y=16 w=16 h=8 rx=3/><path d=M55 74v10/></svg>
+<rect x="255" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="290" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#8C6BAE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x=24 y=30 w=62 h=64 rx=12/><path d=M36 30v64 M48 30v64 M60 30v64 M72 30v64/><path d=M24 44h62/></svg>
+<rect x="480" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="515" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#8C6BAE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d=M55 84v18/><rect x=30 y=40 w=50 h=30 rx=14/><path d=M38 46h34/></svg>
+<text x="320" y="400" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#ffffff">Fresh Fold</text>
+<text x="320" y="436" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="600" fill="#ffffff" opacity=".82">Laundry fix-up kit</text>
+</svg>

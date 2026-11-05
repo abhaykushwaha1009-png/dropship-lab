@@ -9,7 +9,7 @@ Angles:
 - balm close-up on cracked pad
 
 Hook lines (10):
-1. A cool mat your dog actually lies on
+1. A cool mat your dog actually lies on â€” and a bandana that does not sag soggy
 2. "Cold water + 10 min soak = mat depth back. That is the whole routine."
 3. apartment dog owners in hot cities?
 4. Three things that belong together. $44.50.

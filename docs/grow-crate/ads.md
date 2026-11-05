@@ -9,8 +9,8 @@ Angles:
 - a week without watering
 
 Hook lines (10):
-1. A crate that keeps your basil alive in August
-2. "The crate needs no drilling, no soil fill. Water 1× per week."
+1. A crate that keeps your basil alive in August â€” and scissors made to not shred it
+2. "The crate needs no drilling, no soil fill. Water 1Ã— per week."
 3. balcony renters who want herbs before?
 4. Three things that belong together. $75.50.
 5. Free shipping, 30-day returns — no stock in your hallway.

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Glow Shelf — Warm light for 45cm">
+<rect width="640" height="480" fill="#A9652A"/>
+<circle cx="80" cy="70" r="90" fill="#ffffff" opacity=".07"/>
+<circle cx="580" cy="380" r="120" fill="#ffffff" opacity=".07"/>
+<rect x="30" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="65" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#A9652A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x=42 y=16 w=26 h=58 rx=8/><path d=M52 74v22M66 74v22/><path d=M34 96h50/><path d=M55 30h0/></svg>
+<rect x="255" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="290" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#A9652A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d=M34 36 44 16h22l10 20Z/><path d=M40 36h30/><path d=M38 36 33 52h44l-5-16/></svg>
+<rect x="480" y="118" width="160" height="204" rx="18" fill="#ffffff"/><svg x="515" y="160" width="110" height="120" viewBox="0 0 110 120" fill="none" stroke="#A9652A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><circle cx=55 cy=54 r=22/><path d=M55 76v18/><path d=M48 84h16/><path d=M46 54c4-10 14-10 18 0/></svg>
+<text x="320" y="400" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#ffffff">Glow Shelf</text>
+<text x="320" y="436" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="600" fill="#ffffff" opacity=".82">Warm light for 45cm</text>
+</svg>
