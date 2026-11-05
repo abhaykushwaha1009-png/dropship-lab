@@ -1,0 +1,776 @@
+{
+  "at": "2026-11-05T01:09:23.772Z",
+  "shops": 15,
+  "rows": [
+    {
+      "shop": "caffeine-lab",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/caffeine-lab/",
+      "ms": 2108,
+      "status": 200,
+      "defects": [
+        "title len 99",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "caffeine-lab",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/caffeine-lab/",
+      "ms": 411,
+      "status": 200,
+      "defects": [
+        "title len 99",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "car-clean",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/car-clean/",
+      "ms": 519,
+      "status": 200,
+      "defects": [
+        "title len 80",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "car-clean",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/car-clean/",
+      "ms": 294,
+      "status": 200,
+      "defects": [
+        "title len 80",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "computer-parts",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/computer-parts/",
+      "ms": 535,
+      "status": 200,
+      "defects": [
+        "title len 90",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "computer-parts",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/computer-parts/",
+      "ms": 270,
+      "status": 200,
+      "defects": [
+        "title len 90",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "cool-paws",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/cool-paws/",
+      "ms": 503,
+      "status": 200,
+      "defects": [
+        "title len 90",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "cool-paws",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/cool-paws/",
+      "ms": 283,
+      "status": 200,
+      "defects": [
+        "title len 90",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "desk-hush",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/desk-hush/",
+      "ms": 644,
+      "status": 200,
+      "defects": [
+        "title len 97",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "desk-hush",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/desk-hush/",
+      "ms": 382,
+      "status": 200,
+      "defects": [
+        "title len 97",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "fresh-fold",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/fresh-fold/",
+      "ms": 561,
+      "status": 200,
+      "defects": [
+        "title len 85",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "fresh-fold",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/fresh-fold/",
+      "ms": 280,
+      "status": 200,
+      "defects": [
+        "title len 85",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "glow-shelf",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/glow-shelf/",
+      "ms": 603,
+      "status": 200,
+      "defects": [
+        "title len 92",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "glow-shelf",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/glow-shelf/",
+      "ms": 266,
+      "status": 200,
+      "defects": [
+        "title len 92",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "grow-crate",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/grow-crate/",
+      "ms": 555,
+      "status": 200,
+      "defects": [
+        "title len 96",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "grow-crate",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/grow-crate/",
+      "ms": 270,
+      "status": 200,
+      "defects": [
+        "title len 96",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "hearth",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/hearth/",
+      "ms": 911,
+      "status": 200,
+      "defects": [
+        "og:image status 404"
+      ]
+    },
+    {
+      "shop": "hearth",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/hearth/",
+      "ms": 268,
+      "status": 200,
+      "defects": [
+        "canonical https://dropship-lab-974ef.web.app/hearth/",
+        "og:image not absolute-on-host",
+        "og:image status 404"
+      ]
+    },
+    {
+      "shop": "kitchen",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/kitchen/",
+      "ms": 537,
+      "status": 200,
+      "defects": [
+        "og:image status 404"
+      ]
+    },
+    {
+      "shop": "kitchen",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/kitchen/",
+      "ms": 456,
+      "status": 200,
+      "defects": [
+        "canonical https://dropship-lab-974ef.web.app/kitchen/",
+        "og:image not absolute-on-host",
+        "og:image status 404"
+      ]
+    },
+    {
+      "shop": "microphone",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/microphone/",
+      "ms": 615,
+      "status": 200,
+      "defects": [
+        "title len 92",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "microphone",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/microphone/",
+      "ms": 294,
+      "status": 200,
+      "defects": [
+        "title len 92",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "paws",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/paws/",
+      "ms": 606,
+      "status": 200,
+      "defects": [
+        "og:image status 404"
+      ]
+    },
+    {
+      "shop": "paws",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/paws/",
+      "ms": 300,
+      "status": 200,
+      "defects": [
+        "canonical https://dropship-lab-974ef.web.app/paws/",
+        "og:image not absolute-on-host",
+        "og:image status 404"
+      ]
+    },
+    {
+      "shop": "ride-kit",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/ride-kit/",
+      "ms": 537,
+      "status": 200,
+      "defects": [
+        "title len 100",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "ride-kit",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/ride-kit/",
+      "ms": 268,
+      "status": 200,
+      "defects": [
+        "title len 100",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "strong-box",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/strong-box/",
+      "ms": 516,
+      "status": 200,
+      "defects": [
+        "title len 76",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "strong-box",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/strong-box/",
+      "ms": 266,
+      "status": 200,
+      "defects": [
+        "title len 76",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "tiny-feet",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/tiny-feet/",
+      "ms": 532,
+      "status": 200,
+      "defects": [
+        "title len 102",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "tiny-feet",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/tiny-feet/",
+      "ms": 259,
+      "status": 200,
+      "defects": [
+        "title len 102",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    }
+  ],
+  "defects": [
+    {
+      "shop": "caffeine-lab",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/caffeine-lab/",
+      "local": [
+        "title len 99",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "caffeine-lab",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/caffeine-lab/",
+      "local": [
+        "title len 99",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "car-clean",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/car-clean/",
+      "local": [
+        "title len 80",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "car-clean",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/car-clean/",
+      "local": [
+        "title len 80",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "computer-parts",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/computer-parts/",
+      "local": [
+        "title len 90",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "computer-parts",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/computer-parts/",
+      "local": [
+        "title len 90",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "cool-paws",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/cool-paws/",
+      "local": [
+        "title len 90",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "cool-paws",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/cool-paws/",
+      "local": [
+        "title len 90",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "desk-hush",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/desk-hush/",
+      "local": [
+        "title len 97",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "desk-hush",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/desk-hush/",
+      "local": [
+        "title len 97",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "fresh-fold",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/fresh-fold/",
+      "local": [
+        "title len 85",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "fresh-fold",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/fresh-fold/",
+      "local": [
+        "title len 85",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "glow-shelf",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/glow-shelf/",
+      "local": [
+        "title len 92",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "glow-shelf",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/glow-shelf/",
+      "local": [
+        "title len 92",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "grow-crate",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/grow-crate/",
+      "local": [
+        "title len 96",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "grow-crate",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/grow-crate/",
+      "local": [
+        "title len 96",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "hearth",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/hearth/",
+      "local": [
+        "og:image status 404"
+      ]
+    },
+    {
+      "shop": "hearth",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/hearth/",
+      "local": [
+        "canonical https://dropship-lab-974ef.web.app/hearth/",
+        "og:image not absolute-on-host",
+        "og:image status 404"
+      ]
+    },
+    {
+      "shop": "kitchen",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/kitchen/",
+      "local": [
+        "og:image status 404"
+      ]
+    },
+    {
+      "shop": "kitchen",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/kitchen/",
+      "local": [
+        "canonical https://dropship-lab-974ef.web.app/kitchen/",
+        "og:image not absolute-on-host",
+        "og:image status 404"
+      ]
+    },
+    {
+      "shop": "microphone",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/microphone/",
+      "local": [
+        "title len 92",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "microphone",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/microphone/",
+      "local": [
+        "title len 92",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "paws",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/paws/",
+      "local": [
+        "og:image status 404"
+      ]
+    },
+    {
+      "shop": "paws",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/paws/",
+      "local": [
+        "canonical https://dropship-lab-974ef.web.app/paws/",
+        "og:image not absolute-on-host",
+        "og:image status 404"
+      ]
+    },
+    {
+      "shop": "ride-kit",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/ride-kit/",
+      "local": [
+        "title len 100",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "ride-kit",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/ride-kit/",
+      "local": [
+        "title len 100",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "strong-box",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/strong-box/",
+      "local": [
+        "title len 76",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "strong-box",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/strong-box/",
+      "local": [
+        "title len 76",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "tiny-feet",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/tiny-feet/",
+      "local": [
+        "title len 102",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "tiny-feet",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/tiny-feet/",
+      "local": [
+        "title len 102",
+        "no canonical",
+        "no og:image",
+        "no checkout path",
+        "no descriptive img alt"
+      ]
+    },
+    {
+      "shop": "__sitemap",
+      "host": "firebase",
+      "url": "https://dropship-lab-974ef.web.app/sitemap.xml",
+      "local": [
+        "4 shops missing"
+      ]
+    },
+    {
+      "shop": "__robots",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/robots.txt",
+      "local": [
+        "robots sitemap not on this host"
+      ]
+    },
+    {
+      "shop": "__sitemap",
+      "host": "pages",
+      "url": "https://abhaykushwaha1009-png.github.io/dropship-lab/sitemap.xml",
+      "local": [
+        "15 shops missing"
+      ]
+    }
+  ]
+}

@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://dropship-lab-974ef.web.app/sitemap.xml
-Sitemap: https://abhaykushwaha1009-png.github.io/dropship-lab/sitemap.xml
