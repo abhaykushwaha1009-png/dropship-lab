@@ -15,7 +15,7 @@ const CSP = "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inl
 const KEEP = ['README.md', 'SUPPLIERS.md', 'firebase.json', '.firebaserc', 'fb_projects.txt'];
 
 const shops = fs.readdirSync(SITE, { withFileTypes: true })
-  .filter(d => d.isDirectory() && !['assets', 'legal', '_data'].includes(d.name))
+  .filter(d => d.isDirectory() && !['assets', 'legal', '_data', '.firebase', 'guides'].includes(d.name))
   .map(d => d.name).sort();
 if (shops.length !== 15) throw new Error(`expected 15 shops, found ${shops.length}`);
 
@@ -35,6 +35,7 @@ const rewrite = (html, slug) => {
   for (const s of shops) out = out.split(`"../${s}/"`).join(`"${s}/"`);
   out = out.split('"../assets/').join('"assets/');
   out = out.split('"../legal/').join('"legal/');
+  out = out.split('"../guides/').join('"guides/');
   for (const s of shops) out = out.split(`href="/${s}/"`).join(`href="${s}/"`);
   out = out.split('href="/"').join('href="./"');
   if (!out.includes('http-equiv="Content-Security-Policy"')) {
@@ -59,7 +60,9 @@ const walk = dir => {
 walk(DOCS);
 
 const urls = [BASE, ...shops.map(s => `${BASE}${s}/`),
-  ...['privacy', 'returns', 'shipping'].map(l => `${BASE}legal/${l}.html`)];
+  ...['privacy', 'returns', 'shipping'].map(l => `${BASE}legal/${l}.html`),
+  ...JSON.parse(fs.readFileSync(path.join(SITE, '_data/guides.json'), 'utf8')).guides
+    .map(g => `${BASE}guides/${g.slug}.html`)];
 fs.writeFileSync(path.join(DOCS, 'sitemap.xml'),
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
   urls.map((u, i) => `  <url><loc>${u}</loc><priority>${i === 0 ? '1.0' : '0.9'}</priority></url>`).join('\n') +

@@ -1,0 +1,42 @@
+{
+  "note": "Hand-authored SKUs for the three content-first shops (no ads.md data). Merged into the catalog by tools/build-catalog.mjs.",
+  "shops": [
+    {
+      "slug": "hearth",
+      "name": "Hearth",
+      "kitId": "hearth-kit",
+      "kitName": "Evening reset kit",
+      "kitPrice": 34.5,
+      "products": [
+        { "id": "heart-pit", "name": "Pit paste jar", "price": 8.9 },
+        { "id": "heart-flame", "name": "Colour-flame sachet (3)", "price": 6.5 },
+        { "id": "heart-kindle", "name": "Kindling bundle", "price": 7.9 },
+        { "id": "heart-lighter", "name": "Long-reach lighter", "price": 7.5 }
+      ]
+    },
+    {
+      "slug": "kitchen",
+      "name": "Kitchen",
+      "kitId": "kitchen-kit",
+      "kitName": "Dozen-rest kit",
+      "kitPrice": 29.9,
+      "products": [
+        { "id": "kit-scoop", "name": "Stainless scraper scoop", "price": 12.9 },
+        { "id": "kit-mats", "name": "Rescue mats (4)", "price": 9.9 },
+        { "id": "kit-spray", "name": "Worktop soak spray", "price": 8.5 }
+      ]
+    },
+    {
+      "slug": "paws",
+      "name": "Paws",
+      "kitId": "paws-kit",
+      "kitName": "Rain walk kit",
+      "kitPrice": 27.9,
+      "products": [
+        { "id": "paws-towel", "name": "Stow towel", "price": 11.9 },
+        { "id": "paws-torch", "name": "Clip torch", "price": 9.9 },
+        { "id": "paws-wipes", "name": "Paw wipes", "price": 7.5 }
+      ]
+    }
+  ]
+}

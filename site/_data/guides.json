@@ -1,0 +1,67 @@
+{
+  "guides": [
+    {
+      "slug": "why-cold-sleep",
+      "shop": "desk-hush",
+      "title": "Why a cold bedroom beats a warm one for sleep",
+      "dek": "Core temperature has to fall for deep sleep to start. That is physiology, not preference.",
+      "search": "cooling pillow breathable",
+      "body": [
+        "Sleep onset is triggered by a drop in core temperature of roughly half a degree. A room at 23C keeps you at the top of your thermal window, so the drop never arrives and you lie there awake.",
+        "The fix is not a colder room — most people hate that. It is taking heat away from the head and neck, which is where a body dumps heat fastest because the blood vessels there sit close to the surface.",
+        "A breathable, phase-change or gel pad under the head does that passively. It needs no electricity, no timer, and nothing to remember at 3am.",
+        "Two things matter when choosing one: the fill has to move heat rather than insulate, and the cover has to be washable, because a pillow you cannot wash stops being a pillow."
+      ],
+      "links": [
+        { "href": "/desk-hush/", "label": "Desk Hush", "note": "the cooling range, scored on airflow and washability" }
+      ]
+    },
+    {
+      "slug": "kettle-descale",
+      "shop": "kitchen",
+      "title": "How often a kettle actually needs descaling",
+      "dek": "Hard water areas: every four to six weeks. Soft water: every three months. Never 'when it looks bad'.",
+      "search": "descaler kettle citric acid",
+      "body": [
+        "Limescale is calcium carbonate. It insulates the element, so a scaled kettle takes longer to boil and pulls more current for the same cup — the cost shows up on the bill before the kettle dies.",
+        "Descale with citric acid, not vinegar. Citric rinses clean in one pass; vinegar leaves an acetic tang that taints the next three brews.",
+        "Half fill, two tablespoons of citric acid, boil, stand twenty minutes, rinse twice, then boil fresh water once and pour it away.",
+        "If your area is above 200mg/l hardness, treat four weeks as the interval and put it in the calendar rather than trusting your memory."
+      ],
+      "links": [
+        { "href": "/kitchen/", "label": "Kitchen", "note": "descaling kit and the worktop mats" }
+      ]
+    },
+    {
+      "slug": "cash-for-car-park",
+      "shop": "car-clean",
+      "title": "Getting the cash out of a scuffed car park",
+      "dek": "Two scuffs and a kerbed alloy will cost more at resale than a full detail. Fix them or the buyer discounts twice over.",
+      "search": "car scratch remover kit",
+      "body": [
+        "Trade-in valuations dock around 120 to 200 pounds for visible paint damage, and the deduction is applied per panel rather than per mark.",
+        "A scratch that you cannot feel with a fingernail is in the clearcoat and will usually polish out. If it catches your nail, it needs touch-up paint before polishing, or the pad just rounds the edges of the gouge.",
+        "Work in shade on a cool panel, and finish with a sealant — bare polished clearcoat oxidises faster than the paint around it, so an unsealed repair looks worse in a month.",
+        "Alloy kerbing is the one to leave to a mobile repairer unless the wheel is bare metal and uncoated."
+      ],
+      "links": [
+        { "href": "/car-clean/", "label": "Car Clean", "note": "the repair and seal range" }
+      ]
+    },
+    {
+      "slug": "dog-walk-rain",
+      "shop": "paws",
+      "title": "Walking a dog in horizontal rain without a wet car",
+      "dek": "The towel lives by the door, not in the cupboard. That one change does more than any gadget.",
+      "search": "dog drying towel microfibre",
+      "body": [
+        "A dog shakes roughly 70% of the water off in the first second after a wet walk, and most of it lands within two metres of the door. Position decides whether that is the porch or the boot.",
+        "Microfibre stow towels absorb more per gram and dry faster than cotton; cotton hangs damp for hours and smells of the walk.",
+        "Dry legs and belly first, then the back against the grain. A clip torch on the lead keeps you visible on the dark side of the lane, which is the part people forget when buying for rain."
+      ],
+      "links": [
+        { "href": "/cool-paws/", "label": "Cool Paws", "note": "the rain walk kit" }
+      ]
+    }
+  ]
+}

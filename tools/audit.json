@@ -1,0 +1,523 @@
+{
+ "pages": [
+  {
+   "file": "/caffeine-lab/index.html",
+   "bytes": 5557,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": false,
+    "ogImage": false,
+    "jsonld": false,
+    "csp": true,
+    "title": "Caffeine Lab — a kettle that stops pouring when it should, and a brewer that keeps the ritual short",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$64.50",
+     "$64.50",
+     "$0",
+     "$36.90"
+    ]
+   }
+  },
+  {
+   "file": "/car-clean/index.html",
+   "bytes": 5372,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": false,
+    "ogImage": false,
+    "jsonld": false,
+    "csp": true,
+    "title": "Come Clean — detailing that survives school-run crumbs — without booking a valet",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$43.70",
+     "$43.70",
+     "$0",
+     "$19.90"
+    ]
+   }
+  },
+  {
+   "file": "/computer-parts/index.html",
+   "bytes": 6186,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": false,
+    "ogImage": false,
+    "jsonld": false,
+    "csp": true,
+    "title": "Tek Desk — a 7-port hub that reaches everywhere â€” and a stand that stops the laptop soup",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$21.90",
+     "$21.90",
+     "$0",
+     "$29.90"
+    ]
+   }
+  },
+  {
+   "file": "/cool-paws/index.html",
+   "bytes": 5351,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": false,
+    "ogImage": false,
+    "jsonld": false,
+    "csp": true,
+    "title": "Cool Paws — a cool mat your dog actually lies on â€” and a bandana that does not sag soggy",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$44.50",
+     "$44.50",
+     "$0",
+     "$26.90"
+    ]
+   }
+  },
+  {
+   "file": "/desk-hush/index.html",
+   "bytes": 5482,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": false,
+    "ogImage": false,
+    "jsonld": false,
+    "csp": true,
+    "title": "Desk Hush — a stand that finally lets the laptop face you, and a fan that does not enter the call",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$73.50",
+     "$73.50",
+     "$0",
+     "$34.90"
+    ]
+   }
+  },
+  {
+   "file": "/fresh-fold/index.html",
+   "bytes": 5413,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": false,
+    "ogImage": false,
+    "jsonld": false,
+    "csp": true,
+    "title": "Fresh Fold — stains treated early, delicates bagged, lint lifted — no re-wash apology",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$33.70",
+     "$33.70",
+     "$0",
+     "$12.90"
+    ]
+   }
+  },
+  {
+   "file": "/glow-shelf/index.html",
+   "bytes": 5420,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": false,
+    "ogImage": false,
+    "jsonld": false,
+    "csp": true,
+    "title": "Glow Shelf — a shelf lamp that reads as furniture â€” warm, high cri, no glare on the screen",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$78.50",
+     "$78.50",
+     "$0",
+     "$44.90"
+    ]
+   }
+  },
+  {
+   "file": "/grow-crate/index.html",
+   "bytes": 5526,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": false,
+    "ogImage": false,
+    "jsonld": false,
+    "csp": true,
+    "title": "Grow Crate — a crate that keeps your basil alive in august â€” and scissors made to not shred it",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$75.50",
+     "$75.50",
+     "$0",
+     "$39.90"
+    ]
+   }
+  },
+  {
+   "file": "/hearth/index.html",
+   "bytes": 6867,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://dropship-lab-974ef.web.app/hearth/"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": true,
+    "ogImage": true,
+    "jsonld": false,
+    "csp": true,
+    "title": "Hearth — warm hands and clear glass for the winter commute",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$39.90",
+     "$24.90",
+     "$34.90"
+    ]
+   }
+  },
+  {
+   "file": "/index.html",
+   "bytes": 13800,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://dropship-lab-974ef.web.app/"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": true,
+    "ogImage": true,
+    "jsonld": false,
+    "csp": true,
+    "title": "dropship-lab — fifteen small-batch shops, one flat promise",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$24.90",
+     "$43.70",
+     "$27.90",
+     "$44.50"
+    ]
+   }
+  },
+  {
+   "file": "/kitchen/index.html",
+   "bytes": 7065,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://dropship-lab-974ef.web.app/kitchen/"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": true,
+    "ogImage": true,
+    "jsonld": false,
+    "csp": true,
+    "title": "Telou — the under-sink cabinet, finally usable",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$32.90",
+     "$29.90",
+     "$21.90"
+    ]
+   }
+  },
+  {
+   "file": "/legal/privacy.html",
+   "bytes": 3144,
+   "brokenLocal": [
+    "shipping.html",
+    "returns.html"
+   ],
+   "extLinks": [
+    "https://dropship-lab-974ef.web.app/legal/privacy.html"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": true,
+    "ogImage": true,
+    "jsonld": false,
+    "csp": true,
+    "title": "Privacy — dropship-lab",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": []
+   }
+  },
+  {
+   "file": "/legal/returns.html",
+   "bytes": 3160,
+   "brokenLocal": [
+    "shipping.html",
+    "privacy.html"
+   ],
+   "extLinks": [
+    "https://dropship-lab-974ef.web.app/legal/returns.html"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": true,
+    "ogImage": true,
+    "jsonld": false,
+    "csp": true,
+    "title": "Returns — dropship-lab",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": []
+   }
+  },
+  {
+   "file": "/legal/shipping.html",
+   "bytes": 3359,
+   "brokenLocal": [
+    "returns.html",
+    "privacy.html"
+   ],
+   "extLinks": [
+    "https://dropship-lab-974ef.web.app/legal/shipping.html"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": true,
+    "ogImage": true,
+    "jsonld": false,
+    "csp": true,
+    "title": "Shipping — dropship-lab",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": []
+   }
+  },
+  {
+   "file": "/microphone/index.html",
+   "bytes": 6060,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": false,
+    "ogImage": false,
+    "jsonld": false,
+    "csp": true,
+    "title": "Pod Shed — a boom arm that gets the mic off the desk â€” and a foam hood that kills the boom",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$17.90",
+     "$17.90",
+     "$0",
+     "$24.90"
+    ]
+   }
+  },
+  {
+   "file": "/paws/index.html",
+   "bytes": 6924,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://dropship-lab-974ef.web.app/paws/"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": true,
+    "ogImage": true,
+    "jsonld": false,
+    "csp": true,
+    "title": "Paw & Posture â€” car seats and winter kit for small dogs",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$59.90",
+     "$34.90",
+     "$27.90"
+    ]
+   }
+  },
+  {
+   "file": "/ride-kit/index.html",
+   "bytes": 5520,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": false,
+    "ogImage": false,
+    "jsonld": false,
+    "csp": true,
+    "title": "Ride Kit — a boot organiser with a lid you actually use â€” and the 3-in-1 cable that stops the knot",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$65.50",
+     "$65.50",
+     "$0",
+     "$31.90"
+    ]
+   }
+  },
+  {
+   "file": "/strong-box/index.html",
+   "bytes": 5387,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": false,
+    "ogImage": false,
+    "jsonld": false,
+    "csp": true,
+    "title": "Strong Box — three things a living-room workout needs: cushion, tube, handle",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$84.50",
+     "$84.50",
+     "$0",
+     "$44.90"
+    ]
+   }
+  },
+  {
+   "file": "/tiny-feet/index.html",
+   "bytes": 5574,
+   "brokenLocal": [],
+   "extLinks": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
+   ],
+   "checks": {
+    "base": true,
+    "canonical": false,
+    "ogImage": false,
+    "jsonld": false,
+    "csp": true,
+    "title": "Tiny Feet — a travel seat they cannot slide out of in 3 seconds, and a bib that catches the wine glass",
+    "desc": true,
+    "viewport": true,
+    "buyLink": 0,
+    "price": [
+     "$65.50",
+     "$65.50",
+     "$0",
+     "$33.90"
+    ]
+   }
+  }
+ ],
+ "problems": [
+  "/caffeine-lab/index.html: missing canonical",
+  "/caffeine-lab/index.html: missing og:image",
+  "/car-clean/index.html: missing canonical",
+  "/car-clean/index.html: missing og:image",
+  "/computer-parts/index.html: missing canonical",
+  "/computer-parts/index.html: missing og:image",
+  "/cool-paws/index.html: missing canonical",
+  "/cool-paws/index.html: missing og:image",
+  "/desk-hush/index.html: missing canonical",
+  "/desk-hush/index.html: missing og:image",
+  "/fresh-fold/index.html: missing canonical",
+  "/fresh-fold/index.html: missing og:image",
+  "/glow-shelf/index.html: missing canonical",
+  "/glow-shelf/index.html: missing og:image",
+  "/grow-crate/index.html: missing canonical",
+  "/grow-crate/index.html: missing og:image",
+  "/legal/privacy.html: 2 broken local refs: shipping.html, returns.html",
+  "/legal/returns.html: 2 broken local refs: shipping.html, privacy.html",
+  "/legal/shipping.html: 2 broken local refs: returns.html, privacy.html",
+  "/microphone/index.html: missing canonical",
+  "/microphone/index.html: missing og:image",
+  "/ride-kit/index.html: missing canonical",
+  "/ride-kit/index.html: missing og:image",
+  "/strong-box/index.html: missing canonical",
+  "/strong-box/index.html: missing og:image",
+  "/tiny-feet/index.html: missing canonical",
+  "/tiny-feet/index.html: missing og:image"
+ ]
+}
